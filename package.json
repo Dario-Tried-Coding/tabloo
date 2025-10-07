@@ -13,6 +13,7 @@
     "@clerk/nextjs": "^6.33.2",
     "@t3-oss/env-nextjs": "^0.13.8",
     "convex": "^1.27.3",
+    "convex-helpers": "^0.1.104",
     "jiti": "^2.6.1",
     "next": "15.5.4",
     "next-intl": "^4.3.9",
